@@ -39,4 +39,4 @@
 
 **Result:** The model has achieved an accuracy of 70%.
 
-Feel free to contribute, suggest improvements, or report issues. Happy coding!
+Feel free to contribute, suggest improvements, or report issues.
