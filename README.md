@@ -37,6 +37,6 @@
 - **Evaluate the Model**
    - Test Accuracy.
 
-**Result:** The model has achieved an accuracy of 70%.
+**Result:** The model has achieved an accuracy of 87%.
 
 Feel free to contribute, suggest improvements, or report issues.
